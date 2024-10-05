@@ -9,6 +9,7 @@ class Router
         // Define routes
         $routes = [
             '' => 'HomeController@index',
+            'about' => 'AboutController@index',
         ];
 
         // Check if route exists
