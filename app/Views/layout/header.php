@@ -9,12 +9,5 @@
 </head>
 
 <body>
-  <header>
-    <h1>My Website Header</h1>
-    <nav>
-      <ul>
-        <li><a href="/">home</a></li>
-        <li><a href="/about">About</a></li>
-      </ul>
-    </nav>
-  </header>
+  <?php include __DIR__ . '/preloader.php'; ?>
+  <?php include __DIR__ . '/navbar.php'; ?>

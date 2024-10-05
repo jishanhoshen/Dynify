@@ -13188,7 +13188,83 @@ textarea.form-control-lg {
   }
 }
 
-body {
-  background-color: #9ce8ff;
+@font-face {
+  font-family: Montserrat;
+  src: url("Montserrat-Regular.d958d71a.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: HudsonNYPro;
+  src: url("HudsonNYPro-Regular.6dbae0c3.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Designer;
+  src: url("Designer.3903a9c1.otf") format("opentype");
+}
+
+.preloader {
+  z-index: 99999;
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.hero-area {
+  background: #d3d3d3 url("http://localhost:8000/storage/images/hero.jpeg") 50% / cover no-repeat;
+  height: 300px;
+  margin-top: 140px;
+  position: relative;
+}
+
+.hero-content {
+  flex-direction: column;
+  justify-content: center;
+  height: 300px;
+  display: flex;
+}
+
+.hero-content .hero-title {
+  font-size: 24px;
+}
+
+.hero-content h1, .hero-content span {
+  color: #fff;
+}
+
+.hero-footer {
+  margin: 56px auto;
+}
+
+.hero-footer .box {
+  background-color: #fff;
+  border-left: 10px solid #0e35aa;
+  border-right: 10px solid #0e35aa;
+  flex-direction: column;
+  gap: 24px;
+  padding: 10px;
+  display: flex;
+}
+
+.hero-footer .box h2 {
+  color: #000;
+  text-align: center;
+}
+
+.hero-footer .box ul li {
+  color: #2b2b2b;
+  letter-spacing: 1px;
+  padding: 5px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
 }
 /*# sourceMappingURL=style.css.map */
