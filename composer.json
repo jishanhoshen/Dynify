@@ -1,0 +1,15 @@
+{
+    "name": "jishan/dynify",
+    "autoload": {
+        "psr-4": {
+            "Jishan\\Dynify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jishan Hoshen",
+            "email": "70538593+jishanhoshen@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
