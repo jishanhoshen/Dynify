@@ -35,6 +35,7 @@ html {
   z-index: 9999;
   background-color: #FFF;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 28px 0px !important;
 }
 
 .nav-item .nav-link {
@@ -213,6 +214,42 @@ html {
 
 .pricing {
   padding-top: 140px;
+  position: relative;
+}
+
+.pricing::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+#gpr::before {
+  background: linear-gradient(45deg, rgb(57, 116, 243), rgb(128 130 133));
+  transform: rotate(45deg);
+  border-radius: 10px;
+  height: 152px;
+  opacity: 0.1;
+  top: 130px;
+}
+
+#how-gpr-works::before {
+  background: linear-gradient(45deg, rgb(233 27 37), rgb(128 130 133));
+  transform: rotate(-5deg);
+  border-radius: 10px;
+  top: 130px;
+  height: calc(100% - 115px);
+}
+
+#how-gpr-works::before {
+  background: linear-gradient(45deg, rgb(233 27 37), rgb(128 130 133));
+  transform: rotate(-5deg);
+  border-radius: 10px;
+  top: 130px;
+  height: calc(100% - 115px);
 }
 
 .pricing-area {
@@ -227,12 +264,20 @@ html {
   color: #0E35AA;
 }
 
+#how-gpr-works .pricing-area h1 {
+  color: #ffffff;
+}
+
+#how-gpr-works .pricing-area p {
+  color: #ffffff;
+}
+
 .pricing-area h1 {
-  color: #1E1E1E;
+  color: #000000;
 }
 
 .pricing-area p {
-  color: #3D3D3D;
+  color: #000000;
   text-align: center;
   font-family: Montserrat;
   font-size: 20px;

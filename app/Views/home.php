@@ -32,7 +32,7 @@
 
 
 
-<section class="pricing" id="pricing">
+<section class="pricing" id="gpr">
   <div class="container">
     <div class="pricing-area text-right">
       <!-- <span class="short-title">Pricing</span> -->
@@ -42,9 +42,29 @@
       <div>
         <p>Ground Penetrating Radar (GPR) is a high-resolution geophysical method used to create detailed cross-sectional images of the shallow subsurface. By collecting data along multiple grid lines, GPR can also generate three-dimensional images of subsurface conditions.</p>
         <p>GPR is widely employed in scanning concrete structures, such as walls, floors, and bridges, to detect embedded objects like rebar, post-tension cables, and other materials. This technology is crucial for construction and renovation projects, ensuring accuracy and safety.</p>
-        <p><b>How GPR Works</b></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pricing" id="how-gpr-works">
+  <div class="container">
+    <div class="pricing-area text-right">
+      <!-- <span class="short-title">Pricing</span> -->
+      <h1 class="long-title">How GPR Works</h1>
+      <div>
         <p>A standard GPR system consists of an antenna unit, which acts as both the transmitter and receiver, connected to a profiling recorder. The antenna emits pulses of electromagnetic (radar) waves into the subsurface and captures the reflected waves, which vary depending on the physical and electrical properties of the materials below the surface. The profiling recorder processes this data, displaying a continuous profile of the scanned area. The results can be visualized in real-time on a video display.</p>
-        <p><b>Ensuring Construction Compliance</b></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pricing" id="pricing">
+  <div class="container">
+    <div class="pricing-area text-right">
+      <!-- <span class="short-title">Pricing</span> -->
+      <h1 class="long-title">Ensuring Construction Compliance</h1>
+      <div>
         <p>When unlicensed contractors perform work without permits or proper inspections, projects are at risk. GPR technology can provide verifiable evidence of rebar, steel ties, loops, and concrete depth, ensuring compliance with city inspectors' and engineers' specifications, thus safeguarding your project from costly errors or rework.</p>
       </div>
     </div>
