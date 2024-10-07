@@ -249,7 +249,9 @@ html {
   transform: rotate(-5deg);
   border-radius: 10px;
   top: 130px;
+  left: 20px;
   height: calc(100% - 115px);
+  width: calc(100% - 44px);
 }
 
 .pricing-area {

@@ -8,7 +8,8 @@
   </div>
 </footer>
 
-<script src="/dist/js/src.js"></script> <!-- Include your JS -->
+<script src="public/dist/js/bootstrap.min.js"></script>
+<script src="public/dist/js/src.js"></script>
 </body>
 
 </html>

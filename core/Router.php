@@ -16,7 +16,7 @@ class Router
         if (array_key_exists($uri, $routes)) {
             list($controllerName, $method) = explode('@', $routes[$uri]);
 
-            require_once "../app/Controllers/$controllerName.php"; // Load the controller
+            require_once "./app/Controllers/$controllerName.php"; // Load the controller
 
             $controller = new $controllerName();
             $controller->$method(); // Call the method
