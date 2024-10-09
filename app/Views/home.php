@@ -3,33 +3,15 @@
 <div class="hero-area">
   <div class="container h-100">
     <div class="hero-content">
-      <h1 class="hero-title long-title" amp-fx="parallax" data-parallax-factor="1.7">
-        Ground Penetrating Radar <br>
-        Find Post Tension Cables, Electric, <br>
-        Plumbing & Rebars
+      <h1 class="hero-title long-title text-uppercase" amp-fx="parallax" data-parallax-factor="1.7">
+        Cut, Core & Drill with Confidence
       </h1>
     </div>
   </div>
 </div>
 
-<div class="hero-footer">
-  <div class="container">
-    <div class="box">
-      <h2 class="long-title">
-        Ground Penetrating Radar
-      </h2>
-      <ul>
-        <li><b>Concrete Scanning:</b> Identifying embedded rebar, post-tension cables, and other structures within concrete.</li>
-        <li><b>Subsurface Mapping:</b> Creating detailed maps of subsurface conditions for construction and renovation.</li>
-        <li><b>Location of Utilities:</b> Detecting buried utilities to prevent damage during excavation.</li>
-        <li><b>Void Detection:</b> Identifying voids or anomalies within concrete structures.</li>
-        <li><b>Thickness Measurement:</b> Measuring the thickness of concrete slabs.</li>
-      </ul>
-    </div>
-  </div>
-</div>
 
-<section>
+<section id="gpr" style="padding: 200px 0px 100px">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6 d-flex justify-content-end">
@@ -43,7 +25,7 @@
   </div>
 </section>
 
-<section class="bullet-list" style="padding: 100px 0">
+<section class="bullet-list d-none" style="padding: 100px 0;">
   <div class="container">
     <div class="d-flex justify-content-center">
       <div class="bullet-list-item me-5">
@@ -71,7 +53,7 @@
         </div>
         <div class="d-flex">
           <img src="public/images/Rectangle.svg">
-          <div class="ps-2 fw-bold">Shallow Utility Locating  </div>
+          <div class="ps-2 fw-bold">Shallow Utility Locating </div>
         </div>
         <div class="d-flex">
           <img src="public/images/Rectangle.svg">
@@ -86,49 +68,72 @@
   </div>
 </section>
 
-<section class="pricing" id="gpr">
+
+<section class="section2">
+  <div class="wrap">
+    <h4>IN PURSUIT OF 100%</h4>
+    <h3>SUBSURFACE</h3>
+    <h2>DAMAGE</h2>
+    <h3>PREVENTION</h3>
+  </div>
+</section>
+
+<section class="service-list-area" style="padding: 200px 0px 100px" id="services">
   <div class="container">
-    <div class="pricing-area text-right">
-      <!-- <span class="short-title">Pricing</span> -->
-      <h1 class="long-title">
-        Ground Penetrating Radar (GPR)
-      </h1>
-      <div>
-        <p>GPR scanners emit radio waves into concrete slabs and detect the interactions between these waves and any subsurface objects to create a readout of hyperbolas that vary in size and shape depending on the type of material detected. GPRS’ SIM-certified Project Managers interpret this data to tell you what was located and estimate its depth within the slab.</p>
+    <div class="row service-list ">
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Rebar Locating</p>
+          <!-- <img src="public/images/Rebar Locating.jpg" alt=""> -->
+        </div>
+      </div>
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Post Tension Cable Mapping</p>
+          <!-- <img src="public/images/Post Tension Cable Mapping.png" alt=""> -->
+        </div>
+      </div>
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Structural Analysis</p>
+          <!-- <img src="public/images/structural analysis.png" alt=""> -->
+        </div>
+      </div>
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Concrete Thickness</p>
+          <!-- <img src="public/images/Concrete Thickness.png" alt=""> -->
+        </div>
+      </div>
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Slab on Grade Applications</p>
+          <!-- <img src="public/images/Slab on Grade Application.jpg" alt=""> -->
+        </div>
+      </div>
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Shallow Utility Locating</p>
+          <!-- <img src="public/images/Shallow Utility Locating.jpg" alt=""> -->
+        </div>
+      </div>
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Conduit Mapping</p>
+          <!-- <img src="public/images/Conduit Mapping.png" alt=""> -->
+        </div>
+      </div>
+      <div class="col-12 col-lg-3 service">
+        <div class="service-content">
+          <p>Ground Penetrating Radar</p>
+          <!-- <img src="public/images/Ground Penetrating Radar.png" alt=""> -->
+        </div>
       </div>
     </div>
   </div>
 </section>
 
-<section class="pricing" id="how-gpr-works">
-  <div class="container">
-    <div class="pricing-area text-right">
-      <!-- <span class="short-title">Pricing</span> -->
-      <h1 class="long-title">How GPR Works</h1>
-      <div>
-        <p>A standard GPR system consists of an antenna unit, which acts as both the transmitter and receiver, connected to a profiling recorder. The antenna emits pulses of electromagnetic (radar) waves into the subsurface and captures the reflected waves, which vary depending on the physical and electrical properties of the materials below the surface. The profiling recorder processes this data, displaying a continuous profile of the scanned area. The results can be visualized in real-time on a video display.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="pricing" id="pricing">
-  <div class="container">
-    <div class="pricing-area text-right">
-      <!-- <span class="short-title">Pricing</span> -->
-      <h1 class="long-title">Ensuring Construction Compliance</h1>
-      <div>
-        <p>When unlicensed contractors perform work without permits or proper inspections, projects are at risk. GPR technology can provide verifiable evidence of rebar, steel ties, loops, and concrete depth, ensuring compliance with city inspectors' and engineers' specifications, thus safeguarding your project from costly errors or rework.</p>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- <div class="section-border">
-  Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security Safe Blue Security
-</div> -->
-
-
-<section>
+<section class="section3" style="padding-bottom: 100px">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6">
@@ -142,41 +147,39 @@
         <p class="pt-2">GPRS Project Managers provide GPR scanning services to determine key slab information for structural engineers, including concrete cover and overlay thickness, concrete thickness, and even dowel placement. We aren’t limited by the size or scope of your site; we have the training and the equipment to fully evaluate your concrete structure.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/section2.png" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/Slab on Grade Application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3">Slab on Grade</h4>
         <p class="pt-2">Ground penetrating radar’s ability to visualize what’s inside and under concrete slab-on-grade is one of its biggest advantages over X-Ray scanning technology. Because GPR only needs access to one side of a concrete slab or structure to scan the material for anomalies such as embedded conduit, it can evaluate slab-on-grade.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/section2.png" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/Shallow Utility Locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3">Shallow Utility Locating</h4>
+        <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. GPRS Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
+      </div>
+      <div class="col-12 col-md-6">
+        <img src="public/images/Conduit Mapping.png" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <h4 class="pt-3">Conduit Mapping</h4>
+        <p class="pt-2">We know you can’t risk severing an electrical conduit while coring or cutting through concrete. We mark our GPR findings directly on your slab so you know where all subsurface obstructions are buried and where you can safely cut or core.</p>
+      </div>
+      <div class="col-12 col-md-6">
+        <img src="public/images/Rebar Locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <h4 class="pt-3">Rebar Locating</h4>
+        <p class="pt-2">Damaged rebar will cost you tens of thousands of dollars to repair, and that’s not counting any additional structural damage or injuries that occur when the support is damaged. GPRS Project Managers are specially trained to use GPR to locate and map the rebar within your slab or concrete structure.</p>
+      </div>
+      <div class="col-12 col-md-6">
+        <img src="public/images/Post Tension Cable Mapping.png" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <h4 class="pt-3">Post Tension Cable Mapping</h4>
+        <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. GPRS Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
+      </div>
+      <div class="col-12 col-md-6">
+        <img src="public/images/Slab on Grade Application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <h4 class="pt-3">Structural Analysis</h4>
         <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. GPRS Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="about-us" id="about-us">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 col-12 pe-lg-5">
-        <img src="public/images/about.png" alt="" class="img-fluid w-90">
-      </div>
-      <div class="col-lg-6 col-12 ps-lg-5">
-        <div class="about-content">
-          <span class="short-title">
-            About us
-          </span>
-          <h2 class="long-title">
-            About Our Company
-          </h2>
-          <p>
-            We specialize in providing high-quality Ground Penetrating Radar (GPR) services to ensure safe and precise subsurface scanning for construction and renovation projects. Our expert team is committed to delivering reliable results that meet industry standards and client needs.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 <section class="get-quote" id="get-quote">
   <div class="container">

@@ -26,9 +26,9 @@ html {
   font-family: "Montserrat", sans-serif;
   scroll-behavior: smooth;
   font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 2;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 2;
 }
 
 .navbar {
@@ -53,7 +53,7 @@ html {
 }
 
 .nav-item .nav-link:last-child {
-  padding-right: 34px !important;
+  /* padding-right: 34px !important; */
 }
 
 .customButton {
@@ -82,8 +82,24 @@ html {
   margin-top: 140px;
   height: 300px;
   background-color: #000;
-  background: url("/public/images/hero.jpeg") lightgray 50% / cover no-repeat;
+  background: url("/public/images/hero.png") lightgray 50% / cover no-repeat;
   position: relative;
+}
+
+.hero-area::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.hero-area .container {
+  position: relative;
+  z-index: 2;
 }
 
 .hero-content {
@@ -113,37 +129,6 @@ html {
 }
 
 
-.hero-footer {
-  margin: 56px auto;
-}
-
-.hero-footer .box {
-  background-color: #FFF;
-  border-right: 10px solid #e91b25;
-  border-left: 10px solid #e91b25;
-  display: flex;
-  /* padding: 24px 80px; */
-  padding: 10px;
-  flex-direction: column;
-  gap: 24px;
-}
-
-.hero-footer .box h2 {
-  color: #000;
-  text-align: center;
-}
-
-.hero-footer .box ul li {
-  color: #2B2B2B;
-  font-family: Montserrat;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
-  letter-spacing: 1px;
-  padding: 5px;
-}
-
 .services {
   padding-top: 150px;
 }
@@ -168,19 +153,6 @@ html {
 .service-area h2 {
   color: #FFF;
 }
-
-.service-list-area {
-  position: relative;
-  top: -130px;
-}
-
-/* .service-list {
-  display: flex;
-  align-items: center;
-  gap: 24px;
-  position: relative;
-  bottom: -100px;
-} */
 
 .service {
   display: flex;
@@ -216,6 +188,39 @@ html {
   line-height: normal;
   z-index: 1;
 }
+
+.section2 {
+  width: 100%;
+  background: radial-gradient(circle, rgba(237, 28, 36, 1) 0%, rgb(141 30 34) 60%, rgb(115 41 41) 100%);
+  display: flex;
+  justify-content: center;
+  padding: 40px 0px;
+  color: #FFF;
+}
+
+.section2 .wrap {
+  width: 300px;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.section2 .wrap h4 {
+  letter-spacing: 0.1;
+  font-weight: bold;
+}
+
+.section2 .wrap h2 {
+  letter-spacing: 25px;
+  font-weight: bold;
+}
+
+.section2 .wrap h3 {
+  letter-spacing: 9px;
+  font-weight: bold;
+}
+
+
+
 
 .pricing {
   padding-top: 140px;
@@ -334,6 +339,7 @@ html {
   font-style: normal;
   font-weight: 500;
   line-height: 0.9;
+  text-transform: uppercase;
 }
 
 .about-us {
@@ -460,6 +466,88 @@ footer .copyright {
   justify-content: center;
   align-items: center;
 }
+
+
+.service {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.service-content {
+  position: relative;
+  height: 350px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.service-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  /* Semi-transparent black overlay */
+  z-index: 1;
+}
+
+.service-content p {
+  position: relative;
+  z-index: 2;
+  /* Ensures text is above the overlay */
+  font-size: 1.2rem;
+  transition: font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+  /* Smooth text animation */
+}
+
+.service:hover .service-content::before {
+  background-color: rgba(0, 0, 0, 0.7);
+  /* Darken the overlay on hover */
+}
+
+/* Background images for each service */
+.service:nth-child(1) .service-content {
+  background-image: url('../../images/Rebar Locating.jpg');
+}
+
+.service:nth-child(2) .service-content {
+  background-image: url('../../images/Post Tension Cable Mapping.png');
+}
+
+.service:nth-child(3) .service-content {
+  background-image: url('../../images/structural analysis.png');
+}
+
+.service:nth-child(4) .service-content {
+  background-image: url('../../images/Concrete Thickness.png');
+}
+
+.service:nth-child(5) .service-content {
+  background-image: url('../../images/Slab on Grade Application.jpg');
+}
+
+.service:nth-child(6) .service-content {
+  background-image: url('../../images/Shallow Utility Locating.jpg');
+}
+
+.service:nth-child(7) .service-content {
+  background-image: url('../../images/Conduit Mapping.png');
+}
+
+.service:nth-child(8) .service-content {
+  background-image: url('../../images/Ground Penetrating Radar.png');
+}
+
 
 
 @media (min-width: 768px) {

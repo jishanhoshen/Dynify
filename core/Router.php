@@ -10,6 +10,7 @@ class Router
         $routes = [
             '' => 'HomeController@index',
             'sendemail' => 'SendmailController@index',
+            'admin' => 'AdminController@index',
         ];
 
         // Check if route exists

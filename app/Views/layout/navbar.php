@@ -12,10 +12,7 @@
           <a class="nav-link" href="#gpr" title="Ground Penetrating Radar (GPR)">GPR</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#how-gpr-works">How GPR Works</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#about-us">About Us</a>
+          <a class="nav-link" href="#services">Services</a>
         </li>
         <li class="nav-item d-none d-lg-block">
           <span class="nav-link">|</span>

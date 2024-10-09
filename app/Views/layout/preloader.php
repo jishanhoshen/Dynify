@@ -1,3 +1,3 @@
 <div class="preloader">
-  <img src="/public/images/logo.jpg" alt="safe blue" width="200">
+  <img src="/public/images/logo.gif" alt="safe blue" width="200">
 </div>
