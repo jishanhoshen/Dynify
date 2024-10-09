@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php ob_start(); ?>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><?php echo $title; ?></title>
-</head>
-
-<body>
+<section class="404 d-flex justify-content-center align-items-center flex-column" style="height: 100vh;">
   <h1>404 - Page Not Found</h1>
   <p>Sorry, the page you are looking for doesn't exist.</p>
-</body>
+  <a href="/" class="customButton">Go Back</a>
+</section>
 
-</html>
+
+<?php $content = ob_get_clean(); ?>
+<?php include __DIR__ . '/layout/master.php'; ?>
