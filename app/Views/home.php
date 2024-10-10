@@ -4,7 +4,7 @@
   <div class="container h-100">
     <div class="hero-content">
       <h1 class="hero-title long-title text-uppercase" amp-fx="parallax" data-parallax-factor="1.7">
-        Cut, Core & Drill with Confidence
+        Cut, Core & Drill with <br> Confidence
       </h1>
     </div>
   </div>
@@ -27,14 +27,19 @@
 <section class="section3">
   <div class="wrap">
     <h4>IN PURSUIT OF 100%</h4>
-    <h3>SUBSURFACE</h3>
+    <h3 class="SUBSURFACE">SUBSURFACE</h3>
     <h2>DAMAGE</h2>
-    <h3>PREVENTION</h3>
+    <h3 class="PREVENTION">PREVENTION</h3>
   </div>
 </section>
 
 <section class="section4 service-list-area" style="padding: 200px 0px 100px" id="services">
   <div class="container">
+    <div class="row">
+      <h2 class="long-title text-center mb-5">
+        Our <span class="text-danger">Services</span>
+      </h2>
+    </div>
     <div class="row service-list ">
       <div class="col-12 col-lg-3 service">
         <div class="service-content">

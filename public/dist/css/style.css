@@ -108,6 +108,7 @@ html {
 .hero-content .hero-title {
   font-size: 58px;
   line-height: 1.2;
+  text-align: center;
 }
 
 .hero-content h1,
@@ -175,12 +176,12 @@ html {
 }
 
 .service-list .service p {
-  position: absolute;
+  position: relative;
   color: #FFF;
   font-family: "Montserrat", sans-serif;
   font-size: 1rem;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
   line-height: normal;
   z-index: 1;
 }
@@ -195,13 +196,14 @@ html {
 }
 
 .section3 .wrap {
-  width: 330px;
+  width: 280px;
   text-align: justify;
   font-weight: bold;
+  font-family: 'impact';
 }
 
 .section3 .wrap h4 {
-  letter-spacing: 1px;
+  letter-spacing: 3px;
   font-weight: bold;
 }
 
@@ -210,8 +212,13 @@ html {
   font-weight: bold;
 }
 
-.section3 .wrap h3 {
-  letter-spacing: 10px;
+.section3 .wrap .SUBSURFACE {
+  letter-spacing: 12px;
+  font-weight: bold;
+}
+
+.section3 .wrap .PREVENTION {
+  letter-spacing: 13px;
   font-weight: bold;
 }
 
@@ -553,7 +560,7 @@ footer .copyright {
   }
 
   .hero-content .hero-title {
-    font-size: 58px;
+    font-size: 80px;
   }
 
   .long-title {
