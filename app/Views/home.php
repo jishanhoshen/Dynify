@@ -4,7 +4,7 @@
   <div class="container h-100">
     <div class="hero-content">
       <h1 class="hero-title long-title text-uppercase" amp-fx="parallax" data-parallax-factor="1.7">
-        Cut, Core & Drill with <br> Confidence
+        Cut, Core & Drill <br> with Confidence
       </h1>
     </div>
   </div>
@@ -17,7 +17,7 @@
         <img src="public/images/section2.png" alt="" class="img-fluid" width="70%">
       </div>
       <div class="col-12 col-md-6 d-flex justify-content-center flex-column">
-        <h2 class="long-title">/// <span>GPRS</span> FINDS IT</h2>
+        <h2 class="long-title"><span class="text-danger">/// GPRS FINDS IT</span></h2>
         <p>Scanning concrete with GPR reveals rebar, post tension cables, electrical conduits, voids, and more. This is also an effective method of structural review including concrete slab measurement and rebar spacing.</p>
       </div>
     </div>
@@ -26,10 +26,8 @@
 
 <section class="section3">
   <div class="wrap">
-    <h4>IN PURSUIT OF 100%</h4>
-    <h3 class="SUBSURFACE">SUBSURFACE</h3>
-    <h2>DAMAGE</h2>
-    <h3 class="PREVENTION">PREVENTION</h3>
+    <h2 class="long-title">IN PURSUIT OF 100% </h2>
+    <h2 class="long-title">SUBSURFACE DAMAGE PREVENTION</h2>
   </div>
 </section>
 
@@ -37,7 +35,7 @@
   <div class="container">
     <div class="row">
       <h2 class="long-title text-center mb-5">
-        Our <span class="text-danger">Services</span>
+        <span class="text-danger">Our Services</span>
       </h2>
     </div>
     <div class="row service-list ">
