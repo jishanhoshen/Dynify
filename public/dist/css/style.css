@@ -187,16 +187,14 @@ html {
 }
 
 .section3 {
-  width: 100%;
   background: radial-gradient(circle, rgba(237, 28, 36, 1) 0%, rgb(141 30 34) 60%, rgb(115 41 41) 100%);
-  display: flex;
-  justify-content: center;
   padding: 40px 0px;
   color: #FFF;
 }
 
 .section3 .wrap {
   width: 280px;
+  margin: auto;
   text-align: justify;
   font-weight: bold;
   font-family: 'impact';
@@ -583,4 +581,7 @@ footer .copyright {
     padding: 200px 0px 200px;
   }
 
+  .section3 .wrap h4 {
+    letter-spacing: 2.4px;
+  }
 }
