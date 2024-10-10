@@ -106,7 +106,7 @@ html {
 }
 
 .hero-content .hero-title {
-  font-size: 56px;
+  font-size: 44px;
   line-height: 1.2;
   text-align: center;
 }
@@ -195,6 +195,7 @@ html {
   margin: auto;
   text-align: center;
   font-family: 'impact';
+  padding: 0px 20px;
 }
 
 .section3 .wrap h2 {
