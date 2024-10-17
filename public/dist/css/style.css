@@ -1,18 +1,19 @@
+/*
+Theme Name: Dynify
+Theme URI: http://devxbd.com/dynify
+Author: Jishan Hoshen
+Author URI: http://github.com/jishanhoshen
+Description: A custom template for landing page
+Version: 1.0
+License: GNU General Public License
+Tags: jishanhoshen, dynify, devxbd
+Text Domain: dynify
+*/
+
 @font-face {
   font-family: "Montserrat";
   src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
 }
-
-/* @font-face {
-  font-family: "HudsonNYPro";
-  src: url('../fonts/HudsonNYPro-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: "Designer";
-  src: url('../fonts/Designer.otf') format('opentype');
-} */
-
 
 @font-face {
   font-family: "impact";
