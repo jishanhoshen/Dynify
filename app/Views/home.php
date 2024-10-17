@@ -14,7 +14,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6 left">
-        <img src="public/images/section2.png" alt="" class="img-fluid" width="70%">
+        <img src="public/images/section2.png" alt="What's Hidden in Your Concrete" title="What's Hidden in Your Concrete" class="img-fluid" width="70%">
       </div>
       <div class="col-12 col-md-6 d-flex justify-content-center flex-column">
         <h2 class="long-title"><span class="text-danger">/// COREPRO FINDS IT</span></h2>
@@ -42,49 +42,41 @@
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Rebar Locating</p>
-          <!-- <img src="public/images/Rebar Locating.jpg" alt=""> -->
         </div>
       </div>
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Post Tension Cable Mapping</p>
-          <!-- <img src="public/images/Post Tension Cable Mapping.png" alt=""> -->
         </div>
       </div>
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Structural Analysis</p>
-          <!-- <img src="public/images/structural analysis.png" alt=""> -->
         </div>
       </div>
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Concrete Thickness</p>
-          <!-- <img src="public/images/Concrete Thickness.png" alt=""> -->
         </div>
       </div>
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Slab on Grade Applications</p>
-          <!-- <img src="public/images/Slab on Grade Application.jpg" alt=""> -->
         </div>
       </div>
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Shallow Utility Locating</p>
-          <!-- <img src="public/images/Shallow Utility Locating.jpg" alt=""> -->
         </div>
       </div>
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Conduit Mapping</p>
-          <!-- <img src="public/images/Conduit Mapping.png" alt=""> -->
         </div>
       </div>
       <div class="col-12 col-lg-3 service">
         <div class="service-content">
           <p>Ground Penetrating Radar</p>
-          <!-- <img src="public/images/Ground Penetrating Radar.png" alt=""> -->
         </div>
       </div>
     </div>
@@ -95,42 +87,42 @@
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6">
-        <img src="public/images/ground-penetrating-radar2.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/ground-penetrating-radar2.jpg" alt="ground penetrating radar" title="ground penetrating radar" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Ground Penetrating Radar</h4>
         <p class="pt-2">GPR scanners emit radio waves into concrete slabs and detect the interactions between these waves and any subsurface objects to create a readout of hyperbolas that vary in size and shape depending on the type of material detected. CorePro Project Managers interpret this data to tell you what was located and estimate its depth within the slab.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/concrete-thickness2.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/concrete-thickness2.jpg" alt="concrete thickness" title="concrete thickness" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Concrete Thickness</h4>
         <p class="pt-2">CorePro Project Managers provide GPR scanning services to determine key slab information for structural engineers, including concrete cover and overlay thickness, concrete thickness, and even dowel placement. We aren’t limited by the size or scope of your site; we have the training and the equipment to fully evaluate your concrete structure.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/slab-on-grade-application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/slab-on-grade-application.jpg" alt="slab on grade" title="slab on grade" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Slab on Grade</h4>
         <p class="pt-2">Ground penetrating radar’s ability to visualize what’s inside and under concrete slab-on-grade is one of its biggest advantages over X-Ray scanning technology. Because GPR only needs access to one side of a concrete slab or structure to scan the material for anomalies such as embedded conduit, it can evaluate slab-on-grade.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/shallow-utility-locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/shallow-utility-locating.jpg" alt="shallow utility locating" title="shallow utility locating" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Shallow Utility Locating</h4>
         <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. CorePro Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/conduit-mapping.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/conduit-mapping.jpg" alt="conduit mapping" title="conduit mapping" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Conduit Mapping</h4>
         <p class="pt-2">We know you can’t risk severing an electrical conduit while coring or cutting through concrete. We mark our GPR findings directly on your slab so you know where all subsurface obstructions are buried and where you can safely cut or core.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/rebar-locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/rebar-locating.jpg" alt="rebar locating" title="rebar locating" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Rebar Locating</h4>
         <p class="pt-2">Damaged rebar will cost you tens of thousands of dollars to repair, and that’s not counting any additional structural damage or injuries that occur when the support is damaged. CorePro Project Managers are specially trained to use GPR to locate and map the rebar within your slab or concrete structure.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/post-tension-cable-mapping.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/post-tension-cable-mapping.jpg" alt="post tension cable mapping" title="post tension cable mapping" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Post Tension Cable Mapping</h4>
         <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. CorePro Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/slab-on-grade-application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/slab-on-grade-application.jpg" alt="slab on grade" title="slab on grade" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Structural Analysis</h4>
         <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. CorePro Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
       </div>
@@ -211,7 +203,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body text-center">
-        <img src="public/images/logo.jpg" alt="" class="mb-4" style="width: 200px;">
+        <img src="public/images/logo.gif" alt="corepro" title="corepro" class="mb-4" style="width: 200px;">
         <h2 class="long-title" style="font-size: 24px;">thanks for submitting your information. We will contact you shortly</h2>
       </div>
       <div class="modal-footer">
