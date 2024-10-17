@@ -95,42 +95,42 @@
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-6">
-        <img src="public/images/7272030.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/ground-penetrating-radar2.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Ground Penetrating Radar</h4>
         <p class="pt-2">GPR scanners emit radio waves into concrete slabs and detect the interactions between these waves and any subsurface objects to create a readout of hyperbolas that vary in size and shape depending on the type of material detected. CorePro Project Managers interpret this data to tell you what was located and estimate its depth within the slab.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/e5gdhs5hst.jpeg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/concrete-thickness2.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Concrete Thickness</h4>
         <p class="pt-2">CorePro Project Managers provide GPR scanning services to determine key slab information for structural engineers, including concrete cover and overlay thickness, concrete thickness, and even dowel placement. We aren’t limited by the size or scope of your site; we have the training and the equipment to fully evaluate your concrete structure.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/Slab on Grade Application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/slab-on-grade-application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Slab on Grade</h4>
         <p class="pt-2">Ground penetrating radar’s ability to visualize what’s inside and under concrete slab-on-grade is one of its biggest advantages over X-Ray scanning technology. Because GPR only needs access to one side of a concrete slab or structure to scan the material for anomalies such as embedded conduit, it can evaluate slab-on-grade.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/Shallow Utility Locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/shallow-utility-locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Shallow Utility Locating</h4>
         <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. CorePro Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/Conduit Mapping.png" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/conduit-mapping.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Conduit Mapping</h4>
         <p class="pt-2">We know you can’t risk severing an electrical conduit while coring or cutting through concrete. We mark our GPR findings directly on your slab so you know where all subsurface obstructions are buried and where you can safely cut or core.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/Rebar Locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/rebar-locating.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Rebar Locating</h4>
         <p class="pt-2">Damaged rebar will cost you tens of thousands of dollars to repair, and that’s not counting any additional structural damage or injuries that occur when the support is damaged. CorePro Project Managers are specially trained to use GPR to locate and map the rebar within your slab or concrete structure.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/Post Tension Cable Mapping.png" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/post-tension-cable-mapping.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Post Tension Cable Mapping</h4>
         <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. CorePro Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
       </div>
       <div class="col-12 col-md-6">
-        <img src="public/images/Slab on Grade Application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
+        <img src="public/images/slab-on-grade-application.jpg" alt="" class="img-fluid" style="width:100%; height: 280px; object-fit:cover; border-radius:10px">
         <h4 class="pt-3 long-title">Structural Analysis</h4>
         <p class="pt-2">It’s not just the utilities within your concrete slab that you need to worry about – if it’s a slab-on-grade, you also need to avoid lines buried in the soil below. CorePro Project Managers utilize both ground penetrating radar and electromagnetic (EM) locating to provide you with a 99.8%+ accurate picture of the infrastructure within and below your concrete slab.</p>
       </div>
@@ -170,7 +170,9 @@
                 <path d="M21 1L10 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 <path d="M21 1L14 21L10 12L1 8L21 1Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
               </svg>
-              <span>address</span>
+              <span>
+                3651 Peachtree Pkwy <br> Ste 434 <br> Suwanee GA 30024
+              </span>
             </li>
           </ul>
         </div>

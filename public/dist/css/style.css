@@ -78,7 +78,7 @@ html {
   margin-top: 140px;
   height: 300px;
   background-color: #000;
-  background: url("/public/images/hero.png") lightgray 50% / cover no-repeat;
+  background: url("/public/images/hero.jpg") lightgray 50% / cover no-repeat;
   position: relative;
 }
 
@@ -333,7 +333,7 @@ html {
 
 .get-quote {
   padding: 128px 0;
-  background: url("/public/images/Group 10.png") lightgray 50% / cover no-repeat;
+  background: url("/public/images/get-quote.jpg") lightgray 50% / cover no-repeat;
 }
 
 .get-quote-content {
@@ -478,37 +478,36 @@ footer .copyright {
 
 /* Background images for each service */
 .service:nth-child(1) .service-content {
-  background-image: url('../../images/Rebar Locating.jpg');
+  background-image: url('../../images/rebar-locating.jpg');
 }
 
 .service:nth-child(2) .service-content {
-  background-image: url('../../images/Post Tension Cable Mapping.png');
+  background-image: url('../../images/post-tension-cable-mapping.jpg');
 }
 
 .service:nth-child(3) .service-content {
-  background-image: url('../../images/structural analysis.png');
+  background-image: url('../../images/structural-analysis.jpg');
 }
 
 .service:nth-child(4) .service-content {
-  background-image: url('../../images/Concrete Thickness.png');
+  background-image: url('../../images/concrete-thickness.jpg');
 }
 
 .service:nth-child(5) .service-content {
-  background-image: url('../../images/Slab on Grade Application.jpg');
+  background-image: url('../../images/slab-on-grade-application.jpg');
 }
 
 .service:nth-child(6) .service-content {
-  background-image: url('../../images/Shallow Utility Locating.jpg');
+  background-image: url('../../images/shallow-utility-locating.jpg');
 }
 
 .service:nth-child(7) .service-content {
-  background-image: url('../../images/Conduit Mapping.png');
+  background-image: url('../../images/conduit-mapping.jpg');
 }
 
 .service:nth-child(8) .service-content {
-  background-image: url('../../images/Ground Penetrating Radar.png');
+  background-image: url('../../images/ground-penetrating-radar.jpg');
 }
-
 
 .section5 h4 {
   font-size: 1.5rem;
