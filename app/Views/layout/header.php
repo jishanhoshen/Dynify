@@ -5,6 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="format-detection" content="telephone=no" />
+  
   <meta name="description" content="CORE PRO uses advanced GPR technology to detect rebar, post-tension cables, conduits, and voids in concrete, providing precise structural reviews and measurements for safe construction.">
   <meta name="keywords" content="CORE PRO, GPR scanning, rebar detection, post-tension cables, concrete scanning, structural review, rebar spacing, concrete slab measurement, construction safety, concrete inspection">
   <meta name="robots" content="index, follow">
